@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "Webtrends-SDK"
-  s.version      = "3.2.7"
+  s.version      = "3.2.8"
   s.summary      = "The mobile SDK for Webtrends Analytics and Webtrends Optimize"
   s.license      = 'COMMERCIAL'
   s.homepage     = "http://webtrends.com"
